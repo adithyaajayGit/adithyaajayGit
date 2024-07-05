@@ -5,11 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://adithyaajayportfolio.vercel.app/](https://adithyaajayportfolio.vercel.app/)
 
-- 💬 Ask me about **web application development**
-
 - 📫 How to reach me **adithyaajay098@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YaCkTL2ek2IpXWruQ07CPdPP4eUs4gFh/view?usp=sharing](https://drive.google.com/file/d/1YaCkTL2ek2IpXWruQ07CPdPP4eUs4gFh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
